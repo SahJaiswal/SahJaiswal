@@ -6,10 +6,9 @@
 </p>
 
 <h3 align="left">About Me:</h3>
-<p align="left">I am currently a third year student pursuing my B.Tech with majors in Computer
-Science and Engineering. I have been working in Machine Learning and Data Science field for quite a while
-now. Primarily my focus has been in the healthcare domain. I have an exposure in other fields of Software
-Enginerring like Web Development and other data related fields. I am quite enthusiastic about
+<p align="left">I am currently a final yearite pursuing my B.Tech with majors in Computer
+Science and Engineering. I have developed a strong foundation in software development, 
+complemented by hands-on experience in data analysis and machine learning. I am quite enthusiastic about
 learning new and emerging technologies, and always looks for something new to try out. I have been able to complete
 some diverse set of projects in the fields as well. I am a team player and always look for result oriented
 work.<br>
@@ -19,9 +18,9 @@ I enjoy playing chess and badminton a lot.</p>
 <h3 align="left">Languages and Tools:</h3>
 <ul>
   <li>Programming: Python, C/C++</li>
-  <li>Web Technologies: HTML, CSS, Javascript, Django</li>
+  <li>Web Technologies: HTML, CSS, Javascript, Django, Node.js, Express, React</li>
   <li>Python Libraries: pandas, numpy, sklearn, sksurv, matplotlib</li>
-  <li>Database Management: mySQL with Python Connectivity</li>
+  <li>Database Management: MySQL, MongoDB</li>
   <li>Operating System: Windows, Linux</li>
 </ul>
 <br>
